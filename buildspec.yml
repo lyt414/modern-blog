@@ -10,7 +10,8 @@ phases:
     commands:
       - echo "Building project..."
       - npm run build
+      - npm run export
   post_build:
     commands:
       - echo 'Updating files in S3 bucket...'
-      - aws s3 sync .next/ s3://blog-app-2021 --delete
+      - aws s3 sync .out/ s3://blog-app-2021 --delete
