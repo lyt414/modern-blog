@@ -10,7 +10,7 @@ num.map((x) => {
 module.exports = {
   content: [
     "./pages/**/*.jsx",,
-    "./components/**/*.jsx",
+    "./Components/**/*.jsx",
   ],
   darkMode: 'media',
   theme: {
