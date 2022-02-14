@@ -3,8 +3,9 @@ module.exports = {
     "./pages/**/*.jsx",,
     "./components/**/*.jsx",
   ],
+  darkMode: 'media',
   theme: {
     extend: {},
   },
-  plugins: [],
+  plugins: []
 }
