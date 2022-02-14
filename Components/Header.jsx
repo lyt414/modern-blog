@@ -1,6 +1,5 @@
 import React , { useContext } from 'react'
 import Link from 'next/link'
-import 'tailwindcss/tailwind.css';
 
 const categories = [
   {name: 'React', slug:'react'},

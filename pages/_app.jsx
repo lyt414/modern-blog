@@ -1,4 +1,4 @@
-import 'tailwindcss/tailwind.css';
+// import 'tailwindcss/tailwind.css';
 import '../styles/global.scss';
 import React from 'react';
 import {Layout} from '../Components'
