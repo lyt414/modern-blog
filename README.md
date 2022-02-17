@@ -38,10 +38,10 @@ The website mainly includes 4 parts:
 
 ## Deployment
 - The deployment of static website was automatical utilizing AWS codeBuild and S3 when there is on main branch
-<img src='CICD.png'/>
 - See Vercel Demo [here](https://modern-blog-xi.vercel.app/)
 - See AWS Static Demo [here](http://blog-app-2021.s3-website.us-east-2.amazonaws.com/) to see the Demo
 
+<img src='CICD.png'/>
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
