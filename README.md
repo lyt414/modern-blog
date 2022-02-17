@@ -38,7 +38,8 @@ The website mainly includes 4 parts:
 
 ## Deployment
 - The deployment of static website was automatical utilizing AWS codeBuild and S3 when there is on main branch
-- Click [here](http://blog-app-2021.s3-website.us-east-2.amazonaws.com/) to see the Demo
+- See Vercel Demo [here](https://modern-blog-xi.vercel.app/)
+- See AWS Static Demo [here](http://blog-app-2021.s3-website.us-east-2.amazonaws.com/) to see the Demo
 
 ## License
 
